@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .home-img{
+    width: 900px;
+    height: 900px;
+  }
+  .home-text{
+    color:white;
+    padding-top: 80px;
+  }
+  .col a{
+    text-decoration: none;
+    color:black;
+  }
+  .col a:hover{
+    text-decoration: none;
+    color:blue;
+  }
+.bi.bi-twitter{
+    text-decoration: none;
+  }
+.bi.bi-instagram{
+    text-decoration: none;
+}
+.bi.bi-linkedin{
+    text-decoration: none;
+}
